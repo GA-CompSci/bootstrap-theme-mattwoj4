@@ -1,6 +1,6 @@
 /***** 
 COLOR CHEAT SHEET 
-
+url(https://coolors.co/f96d10-d0252a-481862-127a00-197bbd) 
 
 *****/
 
@@ -9,9 +9,79 @@ COLOR CHEAT SHEET
 /******* FONTS ******/
 /********************/
 body, p {
-
+    font-family: "Merriweather", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-
+    font-family: "Oswald", system-ui;
 }
+
+/********************/
+/******* HERO ******/
+/********************/
+header.masthead{
+    background: url(../img/hero.jpg);
+    width: 100%;
+    height: auto;
+}
+.btn-primary{
+    border:4px;
+    background-color:rgb(201, 17, 17)
+}
+.btn-primary:hover{
+    background-color:blue;
+    border; 4px solid 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#mainNav.navbar-nav .nav-item .nav-link.active {
+    color:aqua !important;  
+}
+
+#mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover{
+    color: red;
+}
+    
